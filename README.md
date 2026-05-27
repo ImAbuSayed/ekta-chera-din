@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ekta-chera-din/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ekta Chera Din](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekta-chera-din/) |
+| **Get License** | [Request Licensing for Ekta Chera Din](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekta-chera-din/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই ঘোরে আজ হারিয়েছি মন
+> তোমার চোখের মায়ায় থমকে যায় জীবন.. থমকে যায় জীবন..
+> বুকের ভেতর আগুন জ্বলে তোমার আশায়
+> তুমি ছাড়া এই পৃথিবী বিষণ্ণতায় হারায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 27, 2026 |
+| **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
