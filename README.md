@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ekta-chera-din/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ekta Chera Din](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekta-chera-din/) |
+| **Get License** | [Music Rights & Licensing for Ekta Chera Din](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekta-chera-din/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4eddd343454bba7d49747f3c15154b7047af110db0d5f25eef15c81924255a35` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

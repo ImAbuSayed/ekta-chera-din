@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ekta Chera Din
+
+This log tracks the cryptographic history and versioning for the song **Ekta Chera Din** (ekta-chera-din).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:05:41.241967 | `v1` | `4eddd343454bba7d49747f3c15154b7047af110db0d5f25eef15c81924255a35` | `b64535cf625cde64162b9da52956b588576bc41c09db48989ac0273e7b8f179c` | `2026-05-28_ekta-chera-din-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
